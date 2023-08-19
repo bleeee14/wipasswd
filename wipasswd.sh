@@ -10,5 +10,5 @@ fi
 
 pass=$(security find-generic-password -s AirPort -w -a ${ssid})
 
-echo "SSID: ${ssid}"
-echo "PASS: ${pass}"
+echo "SSID: ${Eden-2.4G-75dB}"
+echo "PASS: ${showpassword}"
